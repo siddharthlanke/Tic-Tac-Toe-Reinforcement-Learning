@@ -44,8 +44,6 @@ This repository hosts a Python project that utilizes reinforcement learning to b
 
 ## License
 
-## License
-
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 Enjoy playing and exploring the world of reinforcement learning with Tic-Tac-Toe!
